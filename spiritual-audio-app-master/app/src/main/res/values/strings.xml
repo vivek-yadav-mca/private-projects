@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">RSSB Shabad</string>
+
+    <string name="privacy_and_td_hyperlink">
+        By signing in you agree to our <a href="https://99story.in/privacy-policy/">privacy policy</a> and <a href="https://99story.in/terms-of-use/">terms of use.</a>
+    </string>
+
+
+    /*** ironSource Ad Unit ***/
+    <string name="ironSource_app_id">11094afdd</string>
+
+
+    /*** Tapdaq Ad Unit ***/
+    <string name="tapdaq_app_id">6141fff208fe6c2d735d6d19</string>
+    <string name="tapdaq_client_key">c1e7688a-9547-4fce-8c32-4a362cd422ba</string>
+    <string name="tapdaq_banner_default">default</string>
+    <string name="tapdaq_interstitial_default">default_interstitial</string>
+    <string name="tapdaq_banner_main">banner_main</string>
+    <string name="tapdaq_banner_book">banner_book</string>
+    <string name="tapdaq_native_default">native_default</string>
+
+
+    /*** AppLovin Ad Unit ***/
+    <string name="appl_sdk_key">uJGKcduHLZNJST8v74DfiXhrk0M_6pMQJoTbVkT_-5Uui_tIa5CeSQUZe0OfiJ1v_PKghZDZ-FXrMXTmmOMPBz</string>
+    <string name="appl_banner_default">d72567ad90195511</string>
+    <string name="appl_interstitial_default">5242408c10558805</string>
+
+
+    /*** Facebook Ad Unit ***/
+    <!--    Facebook Audience Network-->
+    <string name="fb_ad_unit_50">1494337534232353_1494862657513174</string>
+    <string name="fb_ad_unit_250">1494337534232353_1494486360884137</string>
+
+
+    /*** Original Admob Ad Unit ***/
+
+    <string name="original_admob_app_id">ca-app-pub-5052421998490739~8962113343</string>
+
+    <string name="admob_default_banner">ca-app-pub-5052421998490739/8376485790</string>
+    <string name="admob_default_interstitial">ca-app-pub-5052421998490739/2362669456</string>
+    <string name="admob_default_rewarded">ca-app-pub-5052421998490739/2171097769</string>
+
+    <!--    <string name="admob_default_interstitial">ca-app-pub-3940256099942544/1033173712</string>-->
+
+    <!--    <string name="main_BANNER">ca-app-pub-5052421998490739/6927111363</string>-->
+    <!--    <string name="shabad_BANNER_1">ca-app-pub-5052421998490739/1674784683</string>-->
+    <!--    <string name="shabad_BANNER_2">ca-app-pub-5052421998490739/6735539679</string>-->
+    <!--    <string name="satsang_BANNER_1">ca-app-pub-5052421998490739/9932193430</string>-->
+    <!--    <string name="satsang_BANNER_2">ca-app-pub-5052421998490739/2796294664</string>-->
+    <!--    <string name="story_BANNER">ca-app-pub-5052421998490739/1483212994</string>-->
+    <!--&lt;!&ndash;    <string name="story_activity_admob_unit_100"></string>&ndash;&gt;-->
+    <!--    <string name="webView_BANNER">ca-app-pub-5052421998490739/8981046179</string>-->
+    <!--&lt;!&ndash;    <string name="webview_activity_admob_unit_100"></string>&ndash;&gt;-->
+    <!--&lt;!&ndash;    <string name="photo_activity_admob_unit_100"></string>&ndash;&gt;-->
+    <!--    <string name="book_BANNER">ca-app-pub-5052421998490739/2604722971</string>-->
+    <!--    <string name="pdfViewer_BANNER">ca-app-pub-5052421998490739/3726232955</string>-->
+
+
+    /*** Sample Admob Ad Unit ***/
+    <!--    <string name="sample_admob_app_id">ca-app-pub-3940256099942544~3347511713</string>-->
+
+    <!--    <string name="default_Banner">ca-app-pub-3940256099942544/6300978111</string>-->
+    <!--    <string name="default_Interstitial">ca-app-pub-3940256099942544/6300978111</string>-->
+    <!--    <string name="default_Rewarded">ca-app-pub-3940256099942544/6300978111</string>-->
+
+
+</resources>

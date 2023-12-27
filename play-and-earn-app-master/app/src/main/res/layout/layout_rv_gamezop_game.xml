@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/gamezop_sway_bay"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="6dp"
+        android:layout_marginEnd="8dp"
+        android:layout_weight="1"
+        android:elevation="15dp"
+        app:cardCornerRadius="15dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <ImageView
+                android:id="@+id/gamezop_cv_icon"
+                android:layout_width="@dimen/gamezop_home_cv_icon_height"
+                android:layout_height="@dimen/gamezop_home_cv_icon_height"
+                android:scaleType="centerCrop"
+                android:src="@drawable/gamezop_adventure_sway_bay_webp" />
+
+            <TextView
+                android:id="@+id/gamezop_cv_text"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/gamezop_sway_bay"
+                android:fontFamily="@font/baloo"
+                android:gravity="center"
+                android:marqueeRepeatLimit="marquee_forever"
+                android:paddingStart="2dp"
+                android:paddingEnd="2dp"
+                android:singleLine="true"
+                android:text="@string/gamezop_sway_bay"
+                android:textColor="@color/white"
+                android:textSize="@dimen/gamezop_cv_text_size" />
+        </LinearLayout>
+    </androidx.cardview.widget.CardView>
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,203 @@
+PlayWin- EN
+
+================================================================
+
+keytool -list -v -keystore E:\#1_Work_Space\Applications\Android_Studio_Projects\Spin and Win\APKs\testKeyStore_spinwin.jks -alias testkey
+
+keytool -list -v -keystore C:\Users\aadar\.android\debug.keystore -alias androiddebugkey
+
+keytool -list -v -keystore C:\Users\aadar\.android\playwinkeystore_updated.jks -alias playwinkeystore
+
+change alias name (keystore alias should not match with new alias
+keytool.exe -importcert -file playwin_en_deployment_cert.der -keystore C:\Users\aadar\.android\playwinkeystore_updated.jks -alias playwinkeystore
+keytool.exe -importcert -file playwin_en_deployment_cert.der -keystore C:\Users\aadar\.android\playwinkeystore_updated.jks -alias googlekeystore
+
+keytool.exe -importcert -file playwin_en_deployment_cert.der -keystore C:\Program Files\Java\jre1.8.0_291\bin\playwinkeystore_updated.jks -alias playwinkeystore
+
+=================================================================
+
+
+// AdColony
+API Key : NuFl3m8QndXqFQ7hBK
+App ID : appf59a018b5366471fa2
+Banner Zone : vzc82b85c3c9964daa9c
+Interstitial Zone : vzf4bb9c0d4d6d4f3eb9
+Rewarded Zone : vz978f23a4557a4537a6
+
+
+Admob
+App ID : ca-app-pub-5052421998490739~5044025654 // original
+Banner : ca-app-pub-5052421998490739/8791698973
+Interstitial : ca-app-pub-5052421998490739/4996812246
+Rewarded : 
+Native : ca-app-pub-5052421998490739/1464761340
+
+Sample App ID : ca-app-pub-5052421998490739~7223792126 // sample
+Sample Native : ca-app-pub-3940256099942544/2247696110 // sample
+
+
+AppLovin
+Report Key : nQKxsgdp4tvUvTbrB2_Fn-RBAxMsG4FxVo9FTzI0pnoBLXwKehCH_T7FTC6u-WhALyXnmTwxk3e6St8h5WNOMz
+Ad Review Key : zaM9DLak1v7rhai7TD5tMAJ5R0H1KFzKN-uvvpeZWgTJqKpELbpcvsbX3V4Eg_xrfL1yZpfGsBGEBLWeQ2Z91D
+SDK Key : uJGKcduHLZNJST8v74DfiXhrk0M_6pMQJoTbVkT_-5Uui_tIa5CeSQUZe0OfiJ1v_PKghZDZ-FXrMXTmmOMPBz
+Banner Ad Unit ID (MAX) : bd3270d2ae804760
+Interstitial Ad Unit ID (MAX) : 9b3fd2b7f119d170
+Rewarded Ad Unit ID (MAX) : 2b39cd40b5db48cc
+Native_medium Ad Unit ID (MAX) : 9ce01061aaa5244e
+
+Banner Zone (Mediation) : e4a8a670fdde79ac
+Interstitial Zone (Mediation) : 4d7f7735c05c3354
+Rewarded Zone (Mediation) : aaa9b9526d0b4212
+
+
+// Chartboost
+App ID : 616930e640a68511333d0e0f
+App Sign : 82cda4af05af3981a220d3bcd16a5b6254b718b1
+Ad Location : default_Banner / default_Interstitial / default_Rewarded
+
+
+// Facebook Audience Network
+App ID : 394765682203311
+Property ID : 899932714256887
+Property Level System User Access Token : EAAFnCYxB2q8BALDpEmUEsPZCuzrgHLYadKhUMxuPX4YLsvWxCGFKTmxbRDPtfan1SFZAuQSTQW9Y75EvhBrBe5dJmDwijNGGcobxbvC5vOuGJ9TgmJqSs6RN09aZBktXBR47082y8I9R8EyNZBntlPWMaGliTH4IfqnWbpsBpMWUy2Rsgx4akfeKX1b5D28rZCmo4etN9JwZDZD
+default_Banner : 368290494675359_368298551341220
+default_Interstitial : 368290494675359_386044026233339
+default_Rewarded : 368290494675359_400978071406601
+default_Native : 368290494675359_400978398073235
+default_Native Banner :  368290494675359_400978544739887
+
+
+// InMobi
+API Key : rJIN3B9qM1b0NpS1l6uvniuxLlfYebT3FrYq85rlCBVu0S7I
+Account ID : ae9783fdca644c348ab4ca9b4bdd36d4
+App ID : 1630131174694
+default_Banner : 1632213540707
+default_Interstitial : 1635973734460
+default_Rewarded : 1629773259719
+default_Native : 1635148907814
+
+
+// ironSource
+User ID : aadarshyadav95@gmail.com
+Secret Key : 00c63e61df4ceaf1f87fe69bccdb8573
+Refresh Token : 071bf20b75d6892aa5505f608fae7c74
+App Key : 1193319ad
+Banner Instance ID : 6236339
+Interstitial Instance ID : 6236337
+Rewarded Instance ID : 6236333
+
+
+Tapdaq
+App ID : 62345d9d08fe6c2d735d7ac8
+Client Key : c1e7688a-9547-4fce-8c32-4a362cd422ba
+Banner : default_banner
+Interstitial : default_interstitial
+Rewarded : default_rewarded
+Native : default_native
+
+
+Tapjoy
+SDK Key : F3Fmj66IQ7KZMTmEQFsgcgECETnMBzDlG1JfeOhu0AzdcJmY2N3cb3g0s9kK
+Interstitial : default_interstitial
+Rewarded : default_rewarded
+
+
+Unity
+Organization ID : 13469286535287
+Game ID : 4664799
+Banner : Banner_Android
+Interstitial : Interstitial_Android
+Rewarded : Rewarded_Android
+
+
+// Vungle
+Account/Reporting API Key : 48166b5484cf09800c63dd7563ba6f5c
+App ID : 6256767314e8da0a085db704
+Banner : DEFAULT_BANNER-7104243
+Interstitial : DEFAULT_INTERSTITIAL-8775297
+Rewarded : DEFAULT_REWARDED-2234483
+
+
+
+===================================================================
+-originalcert
+
+Alias name: playwinkeystore
+Creation date: 18 Mar, 2022
+Entry type: PrivateKeyEntry
+Certificate chain length: 1
+Certificate[1]:
+Owner: O=O2 Games, ST=Delhi, C=91
+Issuer: O=O2 Games, ST=Delhi, C=91
+Serial number: 51581dfa
+Valid from: Fri Mar 18 03:42:25 IST 2022 until: Sat Mar 05 03:42:25 IST 2072
+Certificate fingerprints:
+         SHA1: 92:18:1E:08:52:30:B7:5D:B4:D6:D9:59:94:0F:0E:02:78:E5:C0:AC
+         SHA256: F1:73:E8:73:D7:F6:D2:71:BB:09:C0:C1:DD:E9:76:93:79:02:BF:EF:84:D4:C5:DC:4D:7B:F7:8A:71:4F:DD:6F
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions:
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 07 B5 5D 53 3D 4E F1 9D   54 AC F7 1E E6 26 23 46  ..]S=N..T....&#F
+0010: F9 C7 DA AD                                        ....
+]
+]
+
+
+================================================================
+-importcert
+
+Enter keystore password:
+Owner: CN=Android, OU=Android, O=Google Inc., L=Mountain View, ST=California, C=US
+Issuer: CN=Android, OU=Android, O=Google Inc., L=Mountain View, ST=California, C=US
+Serial number: ef2185b9f3d651b66c2eb4682e025238af59cf6f
+Valid from: Fri Mar 18 03:37:19 IST 2022 until: Mon Mar 18 03:37:19 IST 2052
+Certificate fingerprints:
+         SHA1: 7D:9E:AD:EA:69:48:B7:11:0B:24:DC:A2:40:E1:05:8A:F7:6A:0D:B2
+         SHA256: 2B:68:03:09:A4:4C:D7:91:89:9E:86:B8:43:12:65:C3:08:3F:B9:DA:FD:9A:4D:12:92:58:DC:97:7A:B2:C1:37
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 4096-bit RSA key
+Version: 3
+
+Extensions:
+
+#1: ObjectId: 2.5.29.19 Criticality=false
+BasicConstraints:[
+  CA:true
+  PathLen:2147483647
+]
+
+Trust this certificate? [no]:  yes
+Certificate was added to keystore
+
+
+
+=====================================================================
+-- debug Keystore
+
+Enter keystore password:
+Alias name: androiddebugkey
+Creation date: 11 May, 2021
+Entry type: PrivateKeyEntry
+Certificate chain length: 1
+Certificate[1]:
+Owner: C=US, O=Android, CN=Android Debug
+Issuer: C=US, O=Android, CN=Android Debug
+Serial number: 1
+Valid from: Tue May 11 14:02:41 IST 2021 until: Thu May 04 14:02:41 IST 2051
+Certificate fingerprints:
+         SHA1: C6:CD:94:FA:77:C4:42:3E:B1:80:62:85:22:AC:36:EF:B9:E8:5B:99
+         SHA256: CF:FA:BD:39:16:FF:BA:3F:B0:5F:F4:B5:F4:5A:CC:36:66:78:A8:6F:1D:FF:7F:0D:6E:84:9C:4C:45:5C:36:8E
+Signature algorithm name: SHA1withRSA (weak)
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 1
+
+Warning:
+The certificate uses the SHA1withRSA signature algorithm which is considered a security risk. This algorithm will be disabled in a future update.
+
+=================================================================

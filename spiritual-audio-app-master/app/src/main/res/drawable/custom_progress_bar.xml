@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@android:id/background">
+
+        <shape android:shape="rectangle" >
+            <corners android:radius="2dp" />
+            <solid android:color="@color/off_white_red" />
+        </shape>
+
+    </item>
+
+    <item android:id="@android:id/progress" >
+<!--        android:drawable="@drawable/app_icon_transp_512" >-->
+
+        <scale android:scaleWidth="100%">
+
+            <shape android:shape="rectangle" >
+                <corners android:radius="2dp" />
+                <solid android:color="@color/red_dark_theme" />
+            </shape>
+
+<!--            <bitmap-->
+<!--                android:src="@drawable/app_icon_transp_512" />-->
+
+        </scale>
+    </item>
+
+</layer-list>

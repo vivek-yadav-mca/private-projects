@@ -1,0 +1,22 @@
+AdColony
+App ID : app92cfa138795d453f91
+Banner ZONE : vz1ee92a810048410993
+
+
+Admob
+App ID : ca-app-pub-5052421998490739~8962113343
+default Banner ID : ca-app-pub-5052421998490739/8376485790
+
+
+Facebook Audience Network
+Placement : 1494337534232353_1681213725544732
+
+
+Unity
+Game ID : 4319067
+Banner ID : Banner_Android
+
+
+Vungle
+App ID : 61ec45bc45c34bb7aa09871e
+Placement Ref : DEFAULT_BANNER-1779197

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="fB_app_id" translatable="false">394765682203311</string>
+    <string name="fb_login_protocol_scheme" translatable="false">fb394765682203311</string>
+
+
+    wrong
+    /*************** ironSource *************/
+    <string name="iS_app_id" translatable="false">1193319ad</string>
+
+
+    /*************** Unity *************/
+    <string name="uni_ga_id" translatable="false">4664799</string>
+    <string name="uni_banner_default" translatable="false">Banner_Android</string>
+    <string name="uni_interstitial_default" translatable="false">Interstitial_Android</string>
+    <string name="uni_rewarded_default" translatable="false">Rewarded_Android</string>
+
+
+    /*************** AppLovin *************/
+    <string name="apd_app_key" translatable="false">20870cc8a1d502739f2d59d09d0c1b54f4f4269d6efdf928</string>
+
+
+    /*************** AppLovin *************/
+    <string name="aL_sdk_key" translatable="false">uJGKcduHLZNJST8v74DfiXhrk0M_6pMQJoTbVkT_-5Uui_tIa5CeSQUZe0OfiJ1v_PKghZDZ-FXrMXTmmOMPBz</string>
+    <string name="aL_banner_default" translatable="false">bd3270d2ae804760</string>
+    <string name="aL_interstitial_default" translatable="false">9b3fd2b7f119d170</string>
+    <string name="aL_rewarded_default" translatable="false">2b39cd40b5db48cc</string>
+    <string name="aL_native_default_medium" translatable="false">9ce01061aaa5244e</string>
+
+
+    /*************** Tapjoy *************/
+    <string name="tJ_sdk_key" translatable="false">F3Fmj66IQ7KZMTmEQFsgcgECETnMBzDlG1JfeOhu0AzdcJmY2N3cb3g0s9kK</string>
+    <string name="firebase_push_sender_id" translatable="false">192792126352</string>
+    <string name="tJ_offerwall_default" translatable="false">default_offerwall</string>
+
+
+    wrong
+    /**************    Chartboost    *************/
+    <string name="cB_app_id" translatable="false">625ec1db898e75bfabd2abe3</string>
+    <string name="cB_app_sign" translatable="false">8eb6ca936ea8c0c8342bf5e8ca57c2bb99f20111</string>
+
+
+    /**************    Tapdaq    *************/
+    <string name="tad_app_id" translatable="false">62345d9d08fe6c2d735d7ac8</string>
+    <string name="tad_client_key" translatable="false">c1e7688a-9547-4fce-8c32-4a362cd422ba</string>
+    <string name="tad_all_default" translatable="false">default</string>
+    <string name="tad_banner_default" translatable="false">default_banner</string>
+    <string name="tad_inters_video_default" translatable="false">default_interstitial</string>
+    <string name="tad_rewarded_default" translatable="false">default_rewarded</string>
+    <string name="tad_native_default" translatable="false">default_native</string>
+
+
+/*******************************************************************************************************************/
+
+    /******* Original MoPub Ad-Unit IDs *******/
+
+
+    /******* Sample MoPub Ad-Unit IDs *******/
+
+
+
+/******* Original AdMob Ad-Unit IDs *******/
+    <string name="original_aM_app_id" translatable="false">ca-app-pub-5052421998490739~5044025654</string>
+
+    <string name="aM_banner_default" translatable="false">ca-app-pub-5052421998490739/8791698973</string>
+    <string name="aM_interstitial_default" translatable="false">ca-app-pub-5052421998490739/4996812246</string>
+    <string name="aM_rewarded_default" translatable="false"> </string>
+    <string name="aM_native_default" translatable="false">ca-app-pub-5052421998490739/1464761340</string>
+
+
+/******* Sample AdMob Ad-Unit IDs *******/
+    <string name="sample_aM_app_id" translatable="false">ca-app-pub-3940256099942544~3347511713</string>
+
+<!--    <string name="aM_banner_default" translatable="false">ca-app-pub-3940256099942544/6300978111</string>-->
+<!--    <string name="aM_interstitial_default" translatable="false"> </string>-->
+<!--    <string name="aM_rewarded_default" translatable="false">ca-app-pub-3940256099942544/5224354917</string>-->
+<!--    <string name="aM_native_default" translatable="false">ca-app-pub-3940256099942544/2247696110</string>-->
+
+
+</resources>

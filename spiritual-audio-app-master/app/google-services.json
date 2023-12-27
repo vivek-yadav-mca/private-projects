@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "820694210689",
+    "firebase_url": "https://rssb-shabad-26-05-2021-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "rssb-shabad-26-05-2021",
+    "storage_bucket": "rssb-shabad-26-05-2021.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820694210689:android:81ba9942a19b05de475580",
+        "android_client_info": {
+          "package_name": "com.zero07.rssb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "820694210689-3eb6rk5c1od5p0kku3a3tk6pqavvjtq7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zero07.rssb",
+            "certificate_hash": "c6cd94fa77c4423eb180628522ac36efb9e85b99"
+          }
+        },
+        {
+          "client_id": "820694210689-75gk8ltauied7o2o6bhcm4t8u7du4s63.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtrxVe6MUqHlwTRPCEC1BfBG4BUDDtjME"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "820694210689-75gk8ltauied7o2o6bhcm4t8u7du4s63.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

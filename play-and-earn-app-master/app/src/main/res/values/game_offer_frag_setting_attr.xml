@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!--    Qureka Quiz Setting-->
+    <color name="qureka_home_theme_color">#00003E</color>
+
+<!--    Individual qureka quiz cardView setting-->
+    <dimen name="qureka_gameOffer_indiv_quizCV_icon_width">120dp</dimen>
+    <dimen name="qureka_gameOffer_indiv_quizCV_icon_height">90dp</dimen>
+    <dimen name="qureka_gameOffer_indiv_quizCV_elevation">15dp</dimen>
+    <dimen name="qureka_gameOffer_indiv_quizCV_cornerRadius">15dp</dimen>
+
+    <dimen name="qureka_gameOffer_indiv_quizCV_side_icon_margin">4dp</dimen>
+    <dimen name="qureka_gameOffer_indiv_quizCV_middle_icon_margin">2dp</dimen>
+    <dimen name="qureka_cv_text_size">16sp</dimen>
+    <dimen name="qureka_gameOffer_indiv_quizCV_text_padding">2.5dp</dimen>
+
+<!--    Bollywood Quiz-->
+    <string name="qureka_bollywood_quiz">Bollywood Quiz</string>
+    <color name="qureka_bollywood_quiz">#F4B000</color>
+    <string name="qureka_bollywood_quiz_url" translatable="false">https://633.live.qureka.com</string>
+
+<!--&lt;!&ndash;    Sports Quiz&ndash;&gt;-->
+<!--    <string name="qureka_sports_quiz">Sports Quiz</string>-->
+<!--    <color name="qureka_sports_quiz">#A13114</color>-->
+<!--    <string name="qureka_sports_quiz_url">https://633.live.qureka.com</string>-->
+
+<!--&lt;!&ndash;    Banking Quiz&ndash;&gt;-->
+<!--    <string name="qureka_banking_quiz">Banking Quiz</string>-->
+<!--    <color name="qureka_banking_quiz">#A6218C</color>-->
+<!--    <string name="qureka_banking_quiz_url">https://633.live.qureka.com</string>-->
+
+<!--&lt;!&ndash;    GK Bulb Quiz&ndash;&gt;-->
+<!--    <string name="qureka_gk_bulb_quiz">General Knowledge Quiz</string>-->
+<!--    <color name="qureka_gk_bulb_quiz">#43BACF</color>-->
+<!--    <string name="qureka_gk_bulb_quiz_url">https://633.live.qureka.com</string>-->
+
+
+<!--    Cricket Quiz-->
+    <string name="qureka_cricket_quiz">Cricket Quiz</string>
+    <color name="qureka_cricket_quiz">#1C84EF</color>
+<!--    <string name="qureka_cricket_quiz_url">https://633.live.qureka.com</string>-->
+    <string name="qureka_cricket_quiz_url" translatable="false">https://4362.play.quizzop.com/</string>
+
+<!--    Tech Quiz-->
+    <string name="qureka_tech_quiz">Technology Quiz</string>
+    <color name="qureka_tech_quiz">#10297B</color>
+    <string name="qureka_tech_quiz_url" translatable="false">https://633.live.qureka.com</string>
+
+<!--    Gk Quiz-->
+    <string name="qureka_gk_basic_quiz">General Knowledge Quiz</string>
+    <color name="qureka_gk_basic_quiz">#010128</color>
+<!--    <string name="qureka_gk_basic_quiz_url">https://633.live.qureka.com</string>-->
+    <string name="qureka_gk_basic_quiz_url" translatable="false">https://4362.play.quizzop.com/</string>
+
+<!--    IPL Quiz-->
+    <string name="qureka_ipl_quiz">IPL Quiz</string>
+    <color name="qureka_ipl_quiz">#211EA2</color>
+    <string name="qureka_ipl_quiz_url" translatable="false">https://633.live.qureka.com</string>
+
+<!--    Rec IPL Quiz-->
+    <string name="qureka_rec_ipl_quiz_50k">IPL Quiz</string>
+    <color name="qureka_rec_ipl_quiz_50k">#484882</color>
+    <string name="qureka_rec_ipl_quiz_50k_url" translatable="false">https://633.live.qureka.com</string>
+
+<!--    Rec 10+2 Exam Quiz-->
+    <string name="qureka_rec_10_2_exam_quiz_50k">10+2 Exam Quiz</string>
+    <color name="qureka_rec_10_2_exam_quiz_50k">#68116A</color>
+    <string name="qureka_rec_10_2_exam_quiz_50k_url" translatable="false">https://633.live.qureka.com</string>
+
+<!--    Rec hi bank po Quiz-->
+    <string name="qureka_rec_hi_bank_po_quiz_50k">Bank PO Quiz</string>
+    <color name="qureka_rec_hi_bank_po_quiz_50k">#1836C3</color>
+    <string name="qureka_rec_hi_bank_po_quiz_50k_url" translatable="false">https://633.live.qureka.com</string>
+
+<!--    /**-->
+<!--    -->
+<!--    -->
+<!--    **/-->
+
+<!--    Predchamps Quiz / Fantasy Setting-->
+    <color name="predchamp_home_theme_color">#00003E</color>
+    <!--    Individual qureka quiz cardView setting-->
+    <dimen name="predchamp_gameOffer_indiv_predictCV_icon_width">120dp</dimen>
+    <dimen name="predchamp_gameOffer_indiv_predictCV_icon_height">80dp</dimen>
+    <dimen name="predchamp_gameOffer_indiv_predictCV_elevation">15dp</dimen>
+    <dimen name="predchamp_gameOffer_indiv_predictCV_cornerRadius">15dp</dimen>
+
+    <dimen name="predchamp_gameOffer_indiv_predictCV_side_icon_margin">4dp</dimen>
+    <dimen name="predchamp_gameOffer_indiv_predictCV_middle_icon_margin">2dp</dimen>
+    <dimen name="predchamp_cv_text_size">16sp</dimen>
+    <dimen name="predchamp_gameOffer_indiv_predictCV_text_padding">2.5dp</dimen>
+
+<!--    Predict Cricket Result-->
+    <string name="predchamp_predict_cricket_result_1">Cricket Result Prediction Game</string>
+    <color name="predchamp_predict_cricket_result_1">#1B158D</color>
+    <string name="predchamp_predict_cricket_result_url_1" translatable="false">https://633.live.predchamp.com</string>
+
+    <string name="predchamp_predict_cricket_result_2">Cricket Result Prediction Game</string>
+    <color name="predchamp_predict_cricket_result_2">#004898</color>
+    <string name="predchamp_predict_cricket_result_url_2" translatable="false">https://633.live.predchamp.com</string>
+
+<!--    Predict Movie Result-->
+    <string name="predchamp_predict_movie">Movie Result Prediction Game</string>
+    <color name="predchamp_predict_movie">#AA0102</color>
+    <string name="predchamp_predict_movie_url" translatable="false">https://633.live.predchamp.com</string>
+
+<!--    Predict Result Win Coins-->
+    <string name="predchamp_predict_result_win_coin">Result Prediction Game</string>
+    <color name="predchamp_predict_result_win_coin">#A52592</color>
+    <string name="predchamp_predict_result_win_coin_url" translatable="false">https://633.live.predchamp.com</string>
+
+<!--    /**-->
+<!--    -->
+<!--    -->
+<!--    **/-->
+
+<!--    MGL Game Setting-->
+
+<!--    Action-->
+    <string name="mglGamez_earth_hero">Earth Hero</string>
+    <color name="mglGamez_earth_hero">#010E1B</color>
+    <string name="mglGamez_earth_hero_url" translatable="false">https://485.go.mglgamez.com/playgame/earth-hero49</string>
+
+    <string name="mglGamez_knife_hit">Knife Hit</string>
+    <color name="mglGamez_knife_hit">#59254C</color>
+    <string name="mglGamez_knife_hit_url" translatable="false">https://485.go.mglgamez.com/playgame/knife-hit</string>
+
+
+<!--    Adventure-->
+    <string name="mglGamez_bhaag_ninja">Bhaag Ninja</string>
+    <color name="mglGamez_bhaag_ninja">#805230</color>
+    <string name="mglGamez_bhaag_ninja_url" translatable="false">https://485.go.mglgamez.com/playgame/bhaag-ninja</string>
+
+
+<!--    Arcade-->
+    <string name="mglGamez_box_tower">Box Tower</string>
+    <color name="mglGamez_box_tower">#7DB999</color>
+    <string name="mglGamez_box_tower_url" translatable="false">https://485.go.mglgamez.com/playgame/final-box50</string>
+
+    <string name="mglGamez_bubble_shooter">Bubble Shooter</string>
+    <color name="mglGamez_bubble_shooter">#DC49D5</color>
+    <string name="mglGamez_bubble_shooter_url" translatable="false">https://485.go.mglgamez.com/playgame/bubble-shooter51</string>
+
+    <string name="mglGamez_fruit_slash">Fruit Slash</string>
+    <color name="mglGamez_fruit_slash">#E65F0E</color>
+    <string name="mglGamez_fruit_slash_url" translatable="false">https://485.go.mglgamez.com/playgame/fruit-slash</string>
+
+
+<!--    Sports and Racing-->
+    <string name="mglGamez_basketball">Basketball</string>
+    <color name="mglGamez_basketball">#01182E</color>
+    <string name="mglGamez_basketball_url" translatable="false">https://485.go.mglgamez.com/playgame/basket-ball</string>
+
+    <string name="mglGamez_dont_crash">Don\'t Crash</string>
+    <color name="mglGamez_dont_crash">#FFB819</color>
+    <string name="mglGamez_dont_crash_url" translatable="false">https://485.go.mglgamez.com/playgame/donot-crash2</string>
+
+
+<!--    /**-->
+<!--    -->
+<!--    -->
+<!--    **/-->
+
+
+
+<!--    GameZop Setting-->
+    <color name="gamezop_home_theme_color">#3D51B6</color>
+    <dimen name="gamezop_home_cv_icon_height">100dp</dimen>
+    <dimen name="gamezop_cv_text_size">14sp</dimen>
+
+<!--    Individual Game cardView setting-->
+    <dimen name="gamezop_gameOffer_baseCV_show_more_icon_width">30dp</dimen>
+    <dimen name="gamezop_gameOffer_baseCV_show_more_icon_height">24dp</dimen>
+    <dimen name="gamezop_gameOffer_baseCV_gameCV_elevation">0dp</dimen>
+    <dimen name="gamezop_gameOffer_baseCV_gameCV_cornerRadius">15dp</dimen>
+    <dimen name="gamezop_gameOffer_baseCV_gameCV_stroke_width">1dp</dimen>
+    <color name="gamezop_gameOffer_baseCV_gameCV_stroke_color">@color/white</color>
+
+<!--    Individual Game cardView CHILD setting-->
+    <dimen name="gamezop_gameOffer_indiv_gameCV_icon_width">120dp</dimen>
+    <dimen name="gamezop_gameOffer_indiv_gameCV_icon_height">80dp</dimen>
+    <dimen name="gamezop_gameOffer_indiv_gameCV_elevation">15dp</dimen>
+    <dimen name="gamezop_gameOffer_indiv_gameCV_cornerRadius">15dp</dimen>
+
+    <dimen name="gamezop_gameOffer_indiv_gameCV_side_icon_margin">4dp</dimen>
+    <dimen name="gamezop_gameOffer_indiv_gameCV_middle_icon_margin">2dp</dimen>
+    <dimen name="gamezop_gameOffer_indiv_gameCV_text_padding">2.5dp</dimen>
+
+<!--    timer bsDialog setting-->
+    <dimen name="gamezop_timer_bsDialog_game_icon_width">122dp</dimen>
+    <dimen name="gamezop_timer_bsDialog_game_icon_height">100dp</dimen>
+<!--    GameZop Setting-->
+
+
+<!--    Action-->
+    <string name="gamezop_blazing_blades">Blazing Blades</string>
+    <color name="gamezop_blazing_blades">#01182E</color>
+    <string name="gamezop_blazing_blades_url" translatable="false">https://www.gamezop.com/g/UYiznUAya?id=4114</string>
+
+    <string name="gamezop_bottle_shoot">Bottle Shoot</string>
+    <color name="gamezop_bottle_shoot">#EA9249</color>
+    <string name="gamezop_bottle_shoot_url" translatable="false">https://www.gamezop.com/g/B1fSpMkP51m?id=4114</string>
+
+    <string name="gamezop_boulder_blast">Boulder Blast</string>
+    <color name="gamezop_boulder_blast">#28AE5C</color>
+    <string name="gamezop_boulder_blast_url" translatable="false">https://www.gamezop.com/g/HkTQJhTXqRS?id=4114</string>
+
+    <string name="gamezop_saloon_robbery">Saloon Robbery</string>
+    <color name="gamezop_saloon_robbery">#5E2902</color>
+    <string name="gamezop_saloon_robbery_url" translatable="false">https://www.gamezop.com/g/SJ8X6zyPcyX?id=4114</string>
+
+    <string name="gamezop_savage_revenge">Savage Revenge</string>
+    <color name="gamezop_savage_revenge">#312519</color>
+    <string name="gamezop_savage_revenge_url" translatable="false">https://www.gamezop.com/g/ry6bwfUt_Jg?id=4114</string>
+
+    <string name="gamezop_slap_fest">Slap Fest</string>
+    <color name="gamezop_slap_fest">#7F4944</color>
+    <string name="gamezop_slap_fest_url" translatable="false">https://www.gamezop.com/g/ryN9EGAQa?id=4114</string>
+
+    <string name="gamezop_zombies_cant_jump">Zombies Can\'t Jump</string>
+    <color name="gamezop_zombies_cant_jump">#B2A587</color>
+    <string name="gamezop_zombies_cant_jump_url" translatable="false">https://www.gamezop.com/g/rkxMV8TI6Wg?id=4114</string>
+
+
+<!--    Adventure-->
+
+    <string name="gamezop_dodge_bot">Dodge Bot</string>
+    <color name="gamezop_dodge_bot">#391D4B</color>
+    <string name="gamezop_dodge_bot_url" translatable="false">https://www.gamezop.com/g/SJ2OGpIn?id=4114</string>
+
+    <string name="gamezop_escape_run">Escape Run</string>
+    <color name="gamezop_escape_run">#603C2C</color>
+    <string name="gamezop_escape_run_url" translatable="false">https://www.gamezop.com/g/Skz4pzkDqyX?id=4114</string>
+
+    <string name="gamezop_flying_school">Flying School</string>
+    <color name="gamezop_flying_school">#699418</color>
+    <string name="gamezop_flying_school_url" translatable="false">https://www.gamezop.com/g/VJOGOyGb9l?id=4114</string>
+
+    <string name="gamezop_jimbo_jump">Jimbo Jump</string>
+    <color name="gamezop_jimbo_jump">#7F3925</color>
+    <string name="gamezop_jimbo_jump_url" translatable="false">https://www.gamezop.com/g/BkXW1a__?id=4114</string>
+
+    <string name="gamezop_knife_flip">Knife Flip</string>
+    <color name="gamezop_knife_flip">#5BCEFF</color>
+    <string name="gamezop_knife_flip_url" translatable="false">https://www.gamezop.com/g/H1PJn6mqAr?id=4114</string>
+
+    <string name="gamezop_rope_ninja">Rope Ninja</string>
+    <color name="gamezop_rope_ninja">#D07A69</color>
+    <string name="gamezop_rope_ninja_url" translatable="false">https://www.gamezop.com/g/r10-NLT86bx?id=4114</string>
+
+    <string name="gamezop_sticky_goo">Sticky Goo</string>
+    <color name="gamezop_sticky_goo">#3D552D</color>
+    <string name="gamezop_sticky_goo_url" translatable="false">https://www.gamezop.com/g/rJJMVIa8p-x?id=4114</string>
+
+    <string name="gamezop_sway_bay">Sway Bay</string>
+    <color name="gamezop_sway_bay">#51D1EA</color>
+    <string name="gamezop_sway_bay_url" translatable="false">https://www.gamezop.com/g/B1PMIp4XCe?id=4114</string>
+
+
+<!--    Arcade-->
+
+    <string name="gamezop_bouncy">Bouncy</string>
+    <color name="gamezop_bouncy">#9318EF</color>
+    <string name="gamezop_bouncy_url" translatable="false">https://www.gamezop.com/g/H1Tz6z1Dqym?id=4114</string>
+
+    <string name="gamezop_falling_through">Falling Through</string>
+    <color name="gamezop_falling_through">#234533</color>
+    <string name="gamezop_falling_through_url" translatable="false">https://www.gamezop.com/g/ByGqEfCXa?id=4114</string>
+
+    <string name="gamezop_flexi_snake">Flexi Snake</string>
+    <color name="gamezop_flexi_snake">#099CF0</color>
+    <string name="gamezop_flexi_snake_url" translatable="false">https://www.gamezop.com/g/SkQwnwnbK?id=4114</string>
+
+    <string name="gamezop_fruit_chop">Fruit Chop</string>
+    <color name="gamezop_fruit_chop">#361D0F</color>
+    <string name="gamezop_fruit_chop_url" translatable="false">https://www.gamezop.com/g/rkWfy2pXq0r?id=4114</string>
+
+    <string name="gamezop_grumpy_gorilla">Grumpy Gorilla</string>
+    <color name="gamezop_grumpy_gorilla">#085E3A</color>
+    <string name="gamezop_grumpy_gorilla_url" translatable="false">https://www.gamezop.com/g/N1sZfO1fWqg?id=4114</string>
+
+    <string name="gamezop_light_tower">Light Tower</string>
+    <color name="gamezop_light_tower">#318D87</color>
+    <string name="gamezop_light_tower_url" translatable="false">https://www.gamezop.com/g/SJsqNMAmp?id=4114</string>
+
+    <string name="gamezop_sheep_stacking">Sheep Stacking</string>
+    <color name="gamezop_sheep_stacking">#77C028</color>
+    <string name="gamezop_sheep_stacking_url" translatable="false">https://www.gamezop.com/g/V1IZG_1f-qg?id=4114</string>
+
+    <string name="gamezop_tower_twist">Tower Twist</string>
+    <color name="gamezop_tower_twist">#6446E2</color>
+    <string name="gamezop_tower_twist_url" translatable="false">https://www.gamezop.com/g/HJT46GkPcy7?id=4114</string>
+
+    <string name="gamezop_tricky_trip">Tricky Trip</string>
+    <color name="gamezop_tricky_trip">#01021D</color>
+    <string name="gamezop_tricky_trip_url" translatable="false">https://www.gamezop.com/g/NJ3xGOyfb5l?id=4114</string>
+
+
+<!--    Puzzle & Logic-->
+
+    <string name="gamezop_2048">2048</string>
+    <color name="gamezop_2048">#481749</color>
+    <string name="gamezop_2048_url" translatable="false">https://www.gamezop.com/g/NyM_JGWcx?id=4114</string>
+
+    <string name="gamezop_countdown_calculator">Countdown Calculator</string>
+    <color name="gamezop_countdown_calculator">#047DCF</color>
+    <string name="gamezop_countdown_calculator_url" translatable="false">https://www.gamezop.com/g/By5syVo5?id=4114</string>
+
+    <string name="gamezop_high_or_low">High Or Low</string>
+    <color name="gamezop_high_or_low">#8C0103</color>
+    <string name="gamezop_high_or_low_url" translatable="false">https://www.gamezop.com/g/H1eGU64XRg?id=4114</string>
+
+    <string name="gamezop_jello_go_round">Jello Go Round</string>
+    <color name="gamezop_jello_go_round">#9CCEED</color>
+    <string name="gamezop_jello_go_round_url" translatable="false">https://www.gamezop.com/g/SkRZZUoXI8g?id=4114</string>
+
+    <string name="gamezop_jelly_slice">Jelly Slice</string>
+    <color name="gamezop_jelly_slice">#8484BD</color>
+    <string name="gamezop_jelly_slice_url" translatable="false">https://www.gamezop.com/g/SJ3-ELT8p-x?id=4114</string>
+
+    <string name="gamezop_memory_match_up">Memory Match Up</string>
+    <color name="gamezop_memory_match_up">#333333</color>
+    <string name="gamezop_memory_match_up_url" translatable="false">https://www.gamezop.com/g/HkmMITNQ0l?id=4114</string>
+
+    <string name="gamezop_slit_sight">Slit Sight</string>
+    <color name="gamezop_slit_sight">#0AA5D7</color>
+    <string name="gamezop_slit_sight_url" translatable="false">https://www.gamezop.com/g/Bk25EzR7T?id=4114</string>
+
+    <string name="gamezop_sudoko_classic">Sudoko Classic</string>
+    <color name="gamezop_sudoko_classic">#1B21B1</color>
+    <string name="gamezop_sudoko_classic_url" translatable="false">https://www.gamezop.com/g/SJgx126Qc0H?id=4114</string>
+
+    <string name="gamezop_tic_tac_toe_11">Tic Tac Toe 11</string>
+    <color name="gamezop_tic_tac_toe_11">#027DEF</color>
+    <string name="gamezop_tic_tac_toe_11_url" translatable="false">https://www.gamezop.com/g/Hk2yhp7cCH?id=4114</string>
+
+
+<!--    Sports & Racing-->
+
+    <string name="gamezop_archery_champs">Archery Champs</string>
+    <color name="gamezop_archery_champs">#54986A</color>
+    <string name="gamezop_archery_champs_url" translatable="false">https://www.gamezop.com/g/Bk9ynTQqCB?id=4114</string>
+
+    <string name="gamezop_basket_champs">Basket Champs</string>
+    <color name="gamezop_basket_champs">#BC763C</color>
+    <string name="gamezop_basket_champs_url" translatable="false">https://www.gamezop.com/g/S1_V6GyP5ym?id=4114</string>
+
+    <string name="gamezop_basketball_master">Basketball Master</string>
+    <color name="gamezop_basketball_master">#66D17F</color>
+    <string name="gamezop_basketball_master_url" translatable="false">https://www.gamezop.com/g/HyCKrWd4?id=4114</string>
+
+    <string name="gamezop_city_cricket">City Cricket</string>
+    <color name="gamezop_city_cricket">#0E3E40</color>
+    <string name="gamezop_city_cricket_url" translatable="false">https://www.gamezop.com/g/HJP4afkvqJQ?id=4114</string>
+
+    <string name="gamezop_dribble_kings">Dribble Kings</string>
+    <color name="gamezop_dribble_kings">#639948</color>
+    <string name="gamezop_dribble_kings_url" translatable="false">https://www.gamezop.com/g/SkJf58Ouf0?id=4114</string>
+
+    <string name="gamezop_furious_speed">Furious Speed</string>
+    <color name="gamezop_furious_speed">#474747</color>
+    <string name="gamezop_furious_speed_url" translatable="false">https://www.gamezop.com/g/rkwCYBZuV?id=4114</string>
+
+    <string name="gamezop_groovy_ski">Groovy Ski</string>
+    <color name="gamezop_groovy_ski">#9C3E06</color>
+    <string name="gamezop_groovy_ski_url" translatable="false">https://www.gamezop.com/g/EJaG_JfW9l?id=4114</string>
+
+    <string name="gamezop_homerun_hit">Homerun Hit</string>
+    <color name="gamezop_homerun_hit">#0F0F0F</color>
+    <string name="gamezop_homerun_hit_url" translatable="false">https://www.gamezop.com/g/B1H5NfCXa?id=4114</string>
+
+    <string name="gamezop_quack_hunt">Quack Hunt</string>
+    <color name="gamezop_quack_hunt">#8E5539</color>
+    <string name="gamezop_quack_hunt_url" translatable="false">https://www.gamezop.com/g/SJXbW8smUUx?id=4114</string>
+
+    <string name="gamezop_super_goalie_auditions">Super Goalie Auditions</string>
+    <color name="gamezop_super_goalie_auditions">#46911D</color>
+    <string name="gamezop_super_goalie_auditions_url" translatable="false">https://www.gamezop.com/g/SyO94GA7p?id=4114</string>
+
+    <string name="gamezop_table_tennis_shots">Table Tennis Shots</string>
+    <color name="gamezop_table_tennis_shots">#1E85FF</color>
+    <string name="gamezop_table_tennis_shots_url" translatable="false">https://www.gamezop.com/g/HJY4pfJP9JQ?id=4114</string>
+
+
+<!--    Strategy-->
+
+    <string name="gamezop_brick_plunge">Brick Plunge</string>
+    <color name="gamezop_brick_plunge">#508FDB</color>
+    <string name="gamezop_brick_plunge_url" translatable="false">https://www.gamezop.com/g/BJ9bvzIKdJl?id=4114</string>
+
+    <string name="gamezop_bubble_wipeout">Bubble Wipeout</string>
+    <color name="gamezop_bubble_wipeout">#E05483</color>
+    <string name="gamezop_bubble_wipeout_url" translatable="false">https://www.gamezop.com/g/H1AN6fkwqJ7?id=4114</string>
+
+    <string name="gamezop_carrom_hero">Carrom Hero</string>
+    <color name="gamezop_carrom_hero">#C7956D</color>
+    <string name="gamezop_carrom_hero_url" translatable="false">https://www.gamezop.com/g/H1Hgyn6XqAS?id=4114</string>
+
+    <string name="gamezop_hex_burst">Hex Burst</string>
+    <color name="gamezop_hex_burst">#20ECEB</color>
+    <string name="gamezop_hex_burst_url" translatable="false">https://www.gamezop.com/g/H1abja2M_eb?id=4114</string>
+
+    <string name="gamezop_ludo">Ludo</string>
+    <color name="gamezop_ludo">#004370</color>
+    <string name="gamezop_ludo_url" translatable="false">https://www.gamezop.com/g/SkhljT2fdgb?id=4114</string>
+
+    <string name="gamezop_rummy">Rummy</string>
+    <color name="gamezop_rummy">#650012</color>
+    <string name="gamezop_rummy_url" translatable="false">https://www.gamezop.com/g/HJNf1npXqAr?id=4114</string>
+
+    <string name="gamezop_ship_it_up">Ship It Up</string>
+    <color name="gamezop_ship_it_up">#3CDAEF</color>
+    <string name="gamezop_ship_it_up_url" translatable="false">https://www.gamezop.com/g/rJybo6nfdgb?id=4114</string>
+
+    <string name="gamezop_solitaire_gold">Solitaire Gold</string>
+    <color name="gamezop_solitaire_gold">#4DDE92</color>
+    <string name="gamezop_solitaire_gold_url" translatable="false">https://www.gamezop.com/g/rkPlk2T7qAr?id=4114</string>
+
+    <string name="gamezop_traffic_command">Traffic Command</string>
+    <color name="gamezop_traffic_command">#54545D</color>
+    <string name="gamezop_traffic_command_url" translatable="false">https://www.gamezop.com/g/SykGDfUKOkg?id=4114</string>
+
+    <string name="gamezop_yummy_taco">Yummy Taco</string>
+    <color name="gamezop_yummy_taco">#DCBD7E</color>
+    <string name="gamezop_yummy_taco_url" translatable="false">https://www.gamezop.com/g/rJyWCKHbON?id=4114</string>
+
+</resources>
